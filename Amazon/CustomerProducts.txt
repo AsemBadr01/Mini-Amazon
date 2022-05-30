@@ -1,0 +1,10 @@
+10 BMW others 5 1237 250000 4.8 1010
+40 Dress clothes 6 1065 300 4.3 65
+151 mango fruits 69 115 35 4.9 50
+255 banana fruits 1 65 8.5 4.1 50
+56 apple fruits 50 115 12 3.7 50
+151 mango fruits 50 115 35 4.87661 50
+255 banana fruits 35 65 8.5 4.1 45
+56 apple fruits 125 115 12 3.7 45
+151 mango fruits 25 115 35 4.87661 45
+23 mshmsh fruits 92 115 40 4.25 45
